@@ -1,0 +1,6 @@
+2021/07/10-19:40:47.677 e2f Creating DB /home/kamran/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
+2021/07/10-19:40:47.687 e2f Reusing MANIFEST /home/kamran/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/10-20:22:24.833 1933 Level-0 table #5: started
+2021/07/10-20:22:24.849 1933 Level-0 table #5: 806369 bytes OK
+2021/07/10-20:22:24.854 1933 Delete type=0 #3
+2021/07/10-20:22:24.854 1933 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

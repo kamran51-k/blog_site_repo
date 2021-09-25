@@ -1,0 +1,15 @@
+2021/07/13-11:28:57.087 6 Reusing MANIFEST /home/kamran/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/07/13-11:28:57.088 6 Recovering log #94
+2021/07/13-11:28:57.089 6 Reusing old log /home/kamran/.config/google-chrome/Default/Local Storage/leveldb/000094.log 
+2021/07/13-12:02:00.781 c Level-0 table #98: started
+2021/07/13-12:02:00.792 c Level-0 table #98: 18739 bytes OK
+2021/07/13-12:02:00.799 c Delete type=0 #94
+2021/07/13-12:02:00.801 c Compacting 4@0 + 1@1 files
+2021/07/13-12:02:00.829 c Generated table #99@0: 223 keys, 470597 bytes
+2021/07/13-12:02:00.829 c Compacted 4@0 + 1@1 files => 470597 bytes
+2021/07/13-12:02:00.835 c compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/13-12:02:00.836 c Delete type=2 #95
+2021/07/13-12:02:00.837 c Delete type=2 #89
+2021/07/13-12:02:00.837 c Delete type=2 #98
+2021/07/13-12:02:00.837 c Delete type=2 #91
+2021/07/13-12:02:00.837 c Delete type=2 #93
